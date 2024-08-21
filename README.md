@@ -2,9 +2,14 @@
 
 Before the Workshop: AWS Lambda Pre-requisites 
 
+
+### install github 
+
+Link :- https://github.com/git-guides/install-git 
+
 ### Install Python 
 
-[Link](https://www.python.org/downloads/)
+Link:- https://www.python.org/downloads/
 
 
 ### Install AWS CLI 
