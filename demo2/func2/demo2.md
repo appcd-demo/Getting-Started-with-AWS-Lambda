@@ -10,7 +10,7 @@
 
 ```
 https://github.com/appcd-demo/hello-kitty
-make buld 
+make build 
 main.zip
 ```
 
